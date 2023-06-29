@@ -1,4 +1,4 @@
-##Hi there 👋  
+## Hi there 👋  
 - 🔭 i'm currently working on Shanghai  
 - 🌱 I’m currently learning Go and kubernetes
 - 📫 How to reach me: yukai98@foxmail.com
